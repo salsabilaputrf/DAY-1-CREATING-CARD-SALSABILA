@@ -2,6 +2,7 @@
 
 # Referensi : 
 # - https://tabler-icons.io/ : Untuk referensi icon yang digunakan
+- https://www.w3schools.com/ : Sebagai referensi penjelasan materi 
 #
 # Insight baru yang didapat dari pengerjaan tugas ini :
 # - text-align: justify; -> Untuk meratakan baris dengan rata kiri dan kanan
